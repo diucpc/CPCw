@@ -6,7 +6,7 @@ CPCw is fundamental course on web-programming. Only the 2nd year's student from 
 
 ## How to Join
 
-To join this course, you must complete registration via [this form](https://forms.gle/HVRdBX797WA2RtRd8). You will get a mail before class starts. Our Session 1.0 will start on May 28, 2020 13:00.
+To join this course, you must complete registration via [this form](https://forms.gle/HVRdBX797WA2RtRd8). You will get a mail before class starts. Our Session 1.0 will start on June 08, 2020 10:00.
 
 ## Overview
 
